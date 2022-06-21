@@ -1,4 +1,4 @@
-If you don't understand the full code, i recommend to you to read __/Tests__ wich has every code seperately 
+If you don't understand the full code, i recommend to you to read __/Tests__ wich has every code seperately \n
 this code has 8 steps (see **logigrame.png**):
     1. initialise ultrasonic sensor,servo motor, motor shield, lcd and the buzzer
     2. Read distance Forward in **cm**
